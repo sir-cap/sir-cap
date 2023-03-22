@@ -1,6 +1,6 @@
 ### Hello, I'm Diogo 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sir-cap/github-readme-stats)
+I'm the Program Manager @ Ironhack Portugal and a Data Analyst in progess 🚀
 <!--
 **sir-cap/sir-cap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
