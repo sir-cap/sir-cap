@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, I'm Diogo 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sir-cap/github-readme-stats)
 <!--
 **sir-cap/sir-cap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
