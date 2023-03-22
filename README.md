@@ -1,6 +1,8 @@
 ### Hello, I'm Diogo 👋
 
 I'm the Program Manager @ Ironhack Portugal and a Data Analyst in progess 🚀
+
+#3776AB
 <!--
 **sir-cap/sir-cap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
